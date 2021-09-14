@@ -21,7 +21,7 @@ public class TextureCoord : MonoBehaviour
 
     void Update()
     {
-        var a1 = 2.0f;
+        
     }
 
     private Vector3 TextureToWorldCoord(Vector2 UVCoord)
