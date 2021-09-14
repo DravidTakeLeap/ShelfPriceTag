@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e6dcd57e8b610d84791d21beccba428c
+guid: 69092048551b98643817ee2922964084
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -17,58 +17,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Base_color1
-    second: {fileID: 2100000, guid: 53be1392ab1f28a49bcc39fb797a77ca, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Edge1
-    second: {fileID: 2100000, guid: 6a359c73d6a9c4b4cb5f2e0d5d362b95, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Frame1
-    second: {fileID: 2100000, guid: 305c1f9e09fa6a94c98ab80f712f57de, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Front_back1
-    second: {fileID: 2100000, guid: 740b4bfcc5083d343909e5f701b255a6, type: 2}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Front_back4
-    second: {fileID: 2100000, guid: fb8f501d0d1e24c4e93493bfc075e261, type: 2}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Racks1
-    second: {fileID: 2100000, guid: 441952c1d991b634d8088ea3e2da0ddc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert4
-    second: {fileID: 2100000, guid: 89c9fd227c88b8344ad3366109ffb11c, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Front&back UV_test02
-    second: {fileID: 2800000, guid: 1da92d0edbd3bf448995513661a12c5d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Set01_01_Left
-    second: {fileID: 2800000, guid: 117cc8813f9481d48ac83646ff0deed9, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: unnamed
-    second: {fileID: 2800000, guid: ae35ca700af245e4cbe48fd6b5bd1ed4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: unnamed (1)
-    second: {fileID: 2800000, guid: 021830236a1ad1b4fbc1eacb1e2c30a0, type: 3}
+      name: general_rack
+    second: {instanceID: 0}
   materials:
     materialImportMode: 2
     materialName: 0

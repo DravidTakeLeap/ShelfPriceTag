@@ -17,6 +17,7 @@ public class ShowPriceTag : MonoBehaviour
 
     public void ToggleVisibility(bool visibility)
     {
+        if(!priceTagCanvas.activeSelf)
         priceTagCanvas.SetActive(visibility);
     }
 

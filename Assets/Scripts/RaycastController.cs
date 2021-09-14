@@ -26,7 +26,7 @@ public class RaycastController : MonoBehaviour
 
             if(hit.collider.tag == "Shelf")
             {
-                hit.transform.SendMessage("ToggleVisibility", true);
+               hit.transform.SendMessage("ToggleVisibility", true);
 
                 shelf = hit.transform.gameObject.GetComponent<ShowPriceTag>();
 
